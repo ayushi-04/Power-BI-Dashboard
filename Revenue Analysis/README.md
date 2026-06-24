@@ -38,5 +38,20 @@ Power Query
 Data Modeling
 Interactive Visualizations
 
-![Revenue Analysis Dashboard]()
+Dashboard Preview
+![Revenue Analysis Dashboard](https://github.com/ayushi-04/Power-BI-Dashboard/blob/main/Revenue%20Analysis/Revenue-Analysis-Image.png)
+
+Key Business Insights
+Identify the highest and lowest revenue-generating products.
+Evaluate employee performance based on revenue contribution.
+Analyze revenue distribution across product categories.
+Compare state-wise revenue performance.
+Track revenue trends over multiple years.
+Support data-driven business decision-making.
+🎯 Use Cases
+Sales Performance Analysis
+Revenue Monitoring
+Employee Performance Evaluation
+Product Portfolio Optimization
+Regional Revenue Comparison
 
