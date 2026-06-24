@@ -7,7 +7,7 @@ Understand Overall sales performance, identifying top and low performing custome
  DAX (Data Analysis and Experessions)
  Data Visualization Techniques
  # Dashboard Preview
-![Customer Sales Dashboard](customer-sales-analysis/Customer-sales-Analysis-image.png)
+![Customer Sales Dashboard](customer%20sales%20analysis/Customer-sales-Analysis-image.png)
 # Learning Outcome
  Data Visualization using Power BI
  Creating meaningful KPI's using DAX
