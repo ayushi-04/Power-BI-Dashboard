@@ -6,32 +6,30 @@ The Revenue Analysis Dashboard is an interactive Power BI report designed to ana
 The report includes year-based filtering, allowing users to compare performance trends across different periods.
 
 Features
-1. Year-wise Analysis
+ **Year-wise Analysis:**
 Interactive year slicer (2018–2022)
 Dynamic filtering across all visuals
 Easy comparison of revenue performance over time
-2. Top Performers
-
+**Top Performers**
 Displays the Top 5:
-
 Products by Revenue
 Employees by Revenue
 Product Categories by Revenue
 States by Revenue
-3. Bottom Performers
 
+**Bottom Performers**
 Displays the Bottom 5:
-
 Products by Revenue
 Employees by Revenue
 Product Categories by Revenue
 States by Revenue
-4. Interactive Filtering
+
+**Interactive Filtering**
 Cross-filtering between visuals
 Dynamic updates based on selected year
 Drill-down analysis capabilities
 
-🛠️ Tools & Technologies
+Tools & Technologies
 Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query
@@ -48,7 +46,8 @@ Analyze revenue distribution across product categories.
 Compare state-wise revenue performance.
 Track revenue trends over multiple years.
 Support data-driven business decision-making.
-🎯 Use Cases
+
+Use Cases
 Sales Performance Analysis
 Revenue Monitoring
 Employee Performance Evaluation
